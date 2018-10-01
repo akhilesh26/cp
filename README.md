@@ -1,2 +1,2 @@
 # Online competative coding solutions
-Solutions of spoj and codechef questions solved by our friends groups
+Contains lots of simple solutions of spoj and codechef questions solved by our friends groups in efficient manner.
